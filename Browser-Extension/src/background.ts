@@ -1,6 +1,10 @@
-function polling() {
-  // console.log("polling");
-  setTimeout(polling, 1000 * 30);
-}
+// function polling() {
+//   // console.log("polling");
+//   setTimeout(polling, 1000 * 30);
+// }
 
-polling();
+// polling();
+
+chrome.tabs.onUpdated.addListener((tabId , tab) => {
+  
+});

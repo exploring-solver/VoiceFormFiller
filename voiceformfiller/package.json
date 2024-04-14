@@ -1,0 +1,22 @@
+{
+  "name": "voice-form-filler",
+  "version": "1.0.1",
+  "description": "This is a script you can use to fill forms and automate testing using just a button",
+  "main": "voiceFormFiller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audio",
+    "form",
+    "testing",
+    "form",
+    "testing"
+  ],
+  "author": "exploring-solver",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
