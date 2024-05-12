@@ -1,5 +1,5 @@
 Project for auto voice based form filling 
-```markdown
+
 # Voice Form Filler
 
 [![npm version](https://badge.fury.io/js/voice-form-filler.svg)](https://www.npmjs.com/package/voice-form-filler)
@@ -32,5 +32,3 @@ The official release of Voice Form Filler will be available soon. Stay tuned for
 
 ## How It Helps
 Voice Form Filler aims to simplify form-filling tasks, particularly in scenarios where automation is crucial. It can be a valuable tool for developers looking to automate testing processes or for individuals who need to fill out data sheets quickly and efficiently using voice commands.
-
-```
